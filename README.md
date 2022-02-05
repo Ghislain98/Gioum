@@ -1,2 +1,2 @@
 # Gioum
-Web Resume Generation
+Web Resume Generator
